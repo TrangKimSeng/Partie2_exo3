@@ -7,5 +7,4 @@
 
 import Foundation
 
-print("Hello, World!")
-
+var notes: [Int] = [12, 15, 13, 14, 16, 15, 14]
